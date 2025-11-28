@@ -1,4 +1,4 @@
-🌳 ED2 - Árvore B (B-Tree) - Trabalho Acadêmico
+ ED2 - Árvore B (B-Tree) - Trabalho Acadêmico
 
 Este repositório contém o código-fonte em Python utilizado para a produção do vídeo educativo sobre a estrutura de dados Árvore B (B-Tree).
 
